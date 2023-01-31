@@ -1,0 +1,7 @@
+Fermi:
+8p: 2h 26m
+2p: 2h 44m
+1p: 2h 45m
+Pauling:
+2p: 4h 7m
+1p: 4h 2m

@@ -1,0 +1,79 @@
+Initializing particles.
+Equilibrating. Ui = -30.51706830737356
+[10.954451150103322, 10.954451150103322]
+Pass 200000
+Pass 400000
+Pass 600000
+Pass 800000
+Pass 1000000
+Pass 1200000
+Pass 1400000
+Pass 1600000
+Pass 1800000
+Pass 2000000
+Pass 2200000
+Pass 2400000
+Pass 2600000
+Pass 2800000
+Pass 3000000
+Pass 3200000
+Pass 3400000
+Pass 3600000
+Pass 3800000
+Pass 4000000
+Pass 4200000
+Pass 4400000
+Pass 4600000
+Pass 4800000
+Pass 5000000
+Pass 5200000
+Pass 5400000
+Pass 5600000
+Pass 5800000
+Pass 6000000
+Pass 6200000
+Pass 6400000
+Pass 6600000
+Pass 6800000
+Pass 7000000
+Pass 7200000
+Pass 7400000
+Pass 7600000
+Pass 7800000
+Pass 8000000
+Pass 8200000
+Pass 8400000
+Pass 8600000
+Pass 8800000
+Pass 9000000
+Pass 9200000
+Pass 9400000
+Pass 9600000
+Pass 9800000
+Pass 10000000
+
+
+Data Report:
+MB Waters: 120 (sigma: 0.7 epsilon: 0.1)
+LJ_C particles: 0 (sigma: 50.0 epsilon: 0.1)
+LJ_S particles: 0 (sigma: 0.7 epsilon: 0.1)
+T* = 0.2
+P* = 0.12
+Steps: 1200000000 (Passes: 10000000)
+eq. Pass 1: 250000
+eq. Pass 2: 9000000
+-----------------------------------------------
+U* = -0.8594548599186295 (std. dev. 0.044982863922714354)
+Density = 0.8834605281335565 (std. dev. 0.04733774072789583)
+-----------------------------------------------
+Volume AccRatio = 0.46 (delq = 0.14240786495134317)
+Orientation AccRatio = 0.532 (delo = 0.55)
+Translation AccRatio = 0.498 (dels = 0.14000000000000004)
+-----------------------------------------------
+heat capacity = 6.088313076949357 (std. dev. 0.02083151514350911)
+isothermal compressibility = 1.5252984857192629 (std. dev. 0.004199952189656338)
+thermal expansion coefficient = 1.8542643763963893 (std. dev. 0.006848826170172012)
+self-diffusion coefficient = 4.590135422271044E-6
+-----------------------------------------------
+Elapsed time: 2 hours, 26 minutes
+-----------------------------------------------

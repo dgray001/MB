@@ -1,0 +1,9 @@
+#PBS -N Job_Name
+#PBS -m n
+#PBS -l nodes=1:ppn=2
+#PBS -l cput=14400:00:00
+#PBS -q batch
+
+cd directory
+
+run_lapw -p -ec 0.0001 -cc 0.0001
